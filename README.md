@@ -7,7 +7,7 @@
 [![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 
-**Orbital Frontier** is an immersive, high-fidelity 3D space exploration and spacecraft mission simulator developed by team **Missioneers** for the **NASA Space Apps Challenge 2026**.
+**Orbital Frontier** is an immersive, high-fidelity 3D space exploration and spacecraft mission simulator developed by team **MissionForge** for the **NASA Space Apps Challenge 2026**.
 
 The platform bridges real-world aerospace physics, orbital mechanics, and interactive WebGL graphics. It empowers players, students, and engineers to custom-build multi-stage rockets, calculate trajectories, launch into orbit, and relive historic NASA deep-space missions.
 
@@ -110,10 +110,10 @@ Open your browser and visit: **`http://localhost:5000`**
 
 ---
 
-## 👥 The Team — Missioneers
+## 👥 The Team — MissionForge
 Developed with ❤️ for the **NASA Space Apps Challenge 2026**.
 
-- **Team Name:** Missioneers
+- **Team Name:** MissionForge
 - **Project Name:** Orbital Frontier
 
 ---
